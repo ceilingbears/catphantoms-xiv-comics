@@ -9,14 +9,63 @@
       "title": "THE PARTING GLASS",
       "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/g9fcswD/"
+        "A Realm Reborn": "/proxy/api/imgur/chapter/g9fcswD/"
       }
     },
     "2": {
       "title": "THE OTHER ME",
       "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/TjHjDj7/"
+        "Heavensward": "/proxy/api/imgur/chapter/TjHjDj7/"
+      }
+    },
+    "3": {
+      "title": "MISSING IN ACTION",
+      "volume": "1",
+      "groups": {
+        "Heavensward": "/proxy/api/imgur/chapter/qcLZ9SQ/"
+      }
+    },
+    "4": {
+      "title": "HEAVENSWARD",
+      "volume": "1",
+      "groups": {
+        "Heavensward": "/proxy/api/imgur/chapter/pMcImc9/"
+      }
+    },
+    "5": {
+      "title": "YOUR COMPROMISE",
+      "volume": "1",
+      "groups": {
+        "Stormblood": "/proxy/api/imgur/chapter/7iU7Wpt/"
+      }
+    },
+    "6": {
+      "title": "CONTINGENCY",
+      "volume": "1",
+      "groups": {
+        "Shadowbringers": "/proxy/api/imgur/chapter/JTePKnc/"
+      }
+    },
+    "7": {
+      "title": "EXTINGUISHING THE LAST LIGHT",
+      "volume": "1",
+      "groups": {
+        "Shadowbringers": "/proxy/api/imgur/chapter/gigE9ID/"
+      }
+    },
+    "8": {
+      "title": "THE WARRIOR OF LIGHT - PART I",
+      "volume": "1",
+      "groups": {
+        "Endwalker": "/proxy/api/imgur/chapter/qxHuW1m/"
+      }
+    },
+    "9": {
+      "title": "THE WARRIOR OF LIGHT - PART II",
+      "volume": "1",
+      "groups": {
+        "Endwalker": "/proxy/api/imgur/chapter/Pgtjmk6/"
       }
     }
   }
