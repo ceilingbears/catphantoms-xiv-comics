@@ -1,0 +1,23 @@
+{
+  "title": "XIV - SIDE FINN",
+  "description": "\"What absurd thing are they calling me...? 'The Alabaster Dragoon'?\"",
+  "artist": "catphantoms",
+  "author": "catphantoms",
+  "cover": "https://i.imgur.com/TYsBtA8.png"
+  "chapters": {
+    "1": {
+      "title": "THE PARTING GLASS",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/g9fcswD/"
+      }
+    },
+    "2": {
+      "title": "THE OTHER ME",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/TjHjDj7/"
+      }
+    }
+  }
+}
