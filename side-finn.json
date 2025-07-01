@@ -67,6 +67,14 @@
       "groups": {
         "Endwalker": "/proxy/api/imgur/chapter/Pgtjmk6/"
       }
+    },
+    "10": {
+      "title": "THE PROTECTOR AND THE DESTROYER",
+      "volume": "1",
+      "groups": {
+        "Dawntrail": "/proxy/api/imgur/chapter/hnxR5g9/"
+      },
+      "last_updated": "1725339600"
     }
   }
 }
